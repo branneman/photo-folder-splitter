@@ -1,0 +1,21 @@
+{
+  "name": "photo-folder-splitter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Bran van der Meer <bran.van.der.meer@protonmail.com>",
+  "license": "ISC",
+  "prettier": {
+    "semi": false,
+    "singleQuote": true
+  },
+  "dependencies": {
+    "crocks": "^0.12.3",
+    "exif": "^0.6.0",
+    "fluture": "^12.0.0-beta.2",
+    "glob": "^7.1.4",
+    "moment": "^2.24.0",
+    "ramda": "^0.26.1"
+  }
+}

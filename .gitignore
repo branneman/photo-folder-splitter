@@ -1,0 +1,9 @@
+# IDE's
+.vscode
+
+# Node.js
+node_modules
+/*.log
+
+# App
+data
